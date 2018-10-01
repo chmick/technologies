@@ -1,4 +1,4 @@
-## IBM BlueMix :hand: FA18-423-06
+## IBM BlueMix :smiley: FA18-423-06
 
 
 |          |                                |
